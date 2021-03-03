@@ -1,0 +1,16 @@
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.csprojAssemblyReference.cache
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfo.cs
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\Aula01.exe
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\Aula01.deps.json
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.json
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.dev.json
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\Aula01.dll
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\ref\Aula01.dll
+C:\Users\Pietro\Documents\Curso\Aula01\bin\Debug\net5.0\Aula01.pdb
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.dll
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\ref\Aula01.dll
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.pdb
+C:\Users\Pietro\Documents\Curso\Aula01\obj\Debug\net5.0\Aula01.genruntimeconfig.cache
